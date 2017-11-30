@@ -1,0 +1,35 @@
+.header{
+
+  font-family: helvetica;
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.links{
+  background-image: url(./images/building.png);
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  color: white;
+  font-family: helvetica;
+
+}
+
+nav{
+
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+li{
+  margin: 10px; 0;
+}
+
+a{
+  color: white;
+}
