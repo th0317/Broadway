@@ -32,6 +32,7 @@ li{
 
 a{
   color: white;
+  font-size: 18px;
 }
 
 .process{
@@ -63,7 +64,7 @@ a{
   font-weight: bold;
 }
 
-.footer{
+.company{
   font-family: helvetica;
   font-size: 11px;
   background-color: dimgrey;
